@@ -1,4 +1,4 @@
-### Hi 👋 I'm Johny Ramos "sapopk" 
+### Hi 👋 I'm Johny Ramos
 
 - 🍵 Currently learning Java
 
