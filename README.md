@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Johny Ramos
 
-- 🍵 Currently learning Java
+- 🍵 Currently a Java/Spring Developer
 
 <div>
   <a href="https://github.com/sapopk"></a>
