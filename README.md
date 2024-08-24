@@ -10,6 +10,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/johny-ramos">
-    <img height="25em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img height="20em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
